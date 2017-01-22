@@ -5,7 +5,7 @@ import java.sql.*;
  */
 public class DataBaseManager {
 
-    private static String urlDB = "jdbc:mysql://localhost:3306/dbast";
+    private static String urlDB = "jdbc:mysql://localhost:3306";
     private static String user = "root";
     private static String pass = "";
 
